@@ -9,7 +9,7 @@ option java_multiple_files=true;
 message Memory {
 
   enum Unit {
-    UNKWOWN = 0;
+    UNKWOWN = 0; 
     BIT = 1;
     BYTE = 2;
     KILOBYTE = 3;

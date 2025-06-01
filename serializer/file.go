@@ -3,7 +3,7 @@ package serializer
 import (
 	"fmt"
 	"io/ioutil"
-
+	
 	"google.golang.org/protobuf/proto"
 )
 
